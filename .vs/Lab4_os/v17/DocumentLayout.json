@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petro\\source\\repos\\Lab4_os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|c:\\users\\petro\\source\\repos\\lab4_os\\lab4_os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|solutionrelative:lab4_os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|C:\\Users\\petro\\source\\repos\\Lab4_os\\lab4_os\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|solutionrelative:lab4_os\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|C:\\Users\\petro\\source\\repos\\Lab4_os\\lab4_os\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|solutionrelative:lab4_os\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|C:\\Users\\petro\\source\\repos\\Lab4_os\\lab4_os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F72258A8-BC36-473D-8CB2-D207C0E72057}|Lab4_os\\Lab4_os.csproj|solutionrelative:lab4_os\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.resx",
+              "RelativeDocumentMoniker": "Lab4_os\\Form1.resx",
+              "ToolTip": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.resx",
+              "RelativeToolTip": "Lab4_os\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-30T03:29:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_os\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab4_os\\Form1.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAQwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T03:28:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4_os\\Form1.cs",
+              "ToolTip": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.cs",
+              "RelativeToolTip": "Lab4_os\\Form1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T02:34:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4_os\\Form1.cs",
+              "ToolTip": "C:\\Users\\petro\\source\\repos\\Lab4_os\\Lab4_os\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab4_os\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T02:17:50.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

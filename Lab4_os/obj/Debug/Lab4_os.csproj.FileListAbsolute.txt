@@ -1,0 +1,11 @@
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\bin\Debug\Lab4_os.exe.config
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\bin\Debug\Lab4_os.exe
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\bin\Debug\Lab4_os.pdb
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.Properties.Resources.resources
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.exe
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.pdb
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.Form1.resources
+C:\Users\petro\source\repos\Lab4_os\Lab4_os\obj\Debug\Lab4_os.csproj.Up2Date
